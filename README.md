@@ -16,6 +16,6 @@ Activate the module in Report
 
 link to marketplace : https://www.clicshopping.net/forum/files/file/26-apps_report_stats_products_no_purchased/
 
-![nopurchased](https://github.com/ClicShoppingOfficialModulesV3/StatsProductsNoPurchased/blob/master/ModuleInfosJson/no_purchased.png)
+![nopurchased](https://github.com/ClicShoppingOfficialModulesV3/apps_report_stats_products_no_purchased/blob/master/ModuleInfosJson/no_purchased.png)
 
 
