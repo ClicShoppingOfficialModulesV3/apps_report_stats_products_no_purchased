@@ -1,6 +1,6 @@
 # apps_report_stats_products_no_purchased
 
-This apps allow you to display the no puchased product
+This apps allow you to display the no puchased product.
 
 Important Note :
 
